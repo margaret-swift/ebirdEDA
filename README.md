@@ -1,3 +1,5 @@
+UPDATE: data for this tutorial now found at: https://drive.google.com/file/d/1funbKY4qOB1QmxeyNJ-VG_O0nJFdXcUN/view?usp=share_link
+
 # Ellerbe Creek Cleanup Tutorial
 
 In ecology and watershed sciences, large datasets often come from a variety of sources like continuous automated sensors, water grab samples, and community-collected scientific data. Overcoming these challenges is critical to explore the prevalence, persistence, and impact of degraded water quality on human society and wildlife. This project exposes students to approaches for merging and cleaning two disparate data sources, basic tools for statistical analyses, and data visualization. This project was conducted with funding from Duke University's Data Expeditions Initiative.
